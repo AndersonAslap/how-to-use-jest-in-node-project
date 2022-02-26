@@ -8,6 +8,8 @@
 
 > 2 passo : Reponder as perguntas solicitadas após o comando de instalação
 
+`$ yarn jest --init`
+
 ```
 The following questions will help Jest to create a suitable configuration for your project 
 
